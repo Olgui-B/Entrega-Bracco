@@ -9,7 +9,7 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: auto 1fr;
-  background-image: url(img/banner.png);
+  background-image: url(./img/banner.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -166,7 +166,7 @@ body {
 input#buscar::placeholder {
   color: white;
   font-family: "brandon-grotesque";
-  background-image: url(img/lupa.png);
+  background-image: url(./img/lupa.png);
   background-repeat: no-repeat;
   background-position: right;
 }
